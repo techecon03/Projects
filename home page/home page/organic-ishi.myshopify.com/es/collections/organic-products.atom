@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://organic-ishi.myshopify.com/es/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://organic-ishi.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://organic-ishi.myshopify.com/es/collections/organic-products.atom"/>
+  <title>Organic Sectioned Shopify Theme</title>
+  <updated>2019-06-08T05:11:54-04:00</updated>
+  <author>
+    <name>Organic Sectioned Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://organic-ishi.myshopify.com/es/products/1604089937975</id>
+    <published>2019-06-08T05:11:54-04:00</published>
+    <updated>2019-06-08T05:11:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://organic-ishi.myshopify.com/es/products/fresh-vagitables"/>
+    <title>Fresh Vagitables</title>
+    <s:type>organic</s:type>
+    <s:vendor>Organic Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0086/0251/7559/products/10_7b94b89f-7956-4442-8943-f726aabce98b.png?v=1559985214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Organic Sectioned Shopify Theme<br>
+        <strong>Tipo: </strong>organic<br>
+        <strong>Precio: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>organic_organic products</s:tag>
+    <s:tag>organic_vegetable</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604089937975</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://organic-ishi.myshopify.com/es/products/1604088954935</id>
+    <published>2019-06-08T05:10:26-04:00</published>
+    <updated>2019-06-08T05:10:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://organic-ishi.myshopify.com/es/products/organic-banana"/>
+    <title>organic Banana</title>
+    <s:type>organic</s:type>
+    <s:vendor>Organic Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0086/0251/7559/products/20_c81ec43b-1a12-4a21-a7cd-8ae909b02693.png?v=1559990791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Organic Sectioned Shopify Theme<br>
+        <strong>Tipo: </strong>organic<br>
+        <strong>Precio: </strong>
+            30.00 - 32.00
+            <a href="https://organic-ishi.myshopify.com/es/products/organic-banana">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>organic_fruit</s:tag>
+    <s:tag>organic_organic products</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604088954935</id>
+      <title>S / Orange</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604088954935</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604088954935</id>
+      <title>M / Orange</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604088954935</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604088954935</id>
+      <title>L / Orange</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604088954935</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://organic-ishi.myshopify.com/es/products/1604084105271</id>
+    <published>2019-06-08T04:50:31-04:00</published>
+    <updated>2019-06-08T04:50:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://organic-ishi.myshopify.com/es/products/sed-at-nunc-quis"/>
+    <title>Sed at nunc quis</title>
+    <s:type>organic</s:type>
+    <s:vendor>Organic Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0086/0251/7559/products/4_f63d4e33-1fd0-4c1d-9981-31090ff25124.png?v=1559983904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Organic Sectioned Shopify Theme<br>
+        <strong>Tipo: </strong>organic<br>
+        <strong>Precio: </strong>
+            42.00 - 44.00
+            <a href="https://organic-ishi.myshopify.com/es/products/sed-at-nunc-quis">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_red</s:tag>
+    <s:tag>organic_organic products</s:tag>
+    <s:tag>organic_vegetable</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604084105271</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604084105271</id>
+      <title>M / Black</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604084105271</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604084105271</id>
+      <title>L / Black</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+    <published>2019-06-08T04:45:43-04:00</published>
+    <updated>2019-06-08T04:45:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://organic-ishi.myshopify.com/es/products/vel-neque-posuere"/>
+    <title>Vel neque posuere</title>
+    <s:type>organic</s:type>
+    <s:vendor>Organic Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0086/0251/7559/products/17_21afa0f1-1a98-4e1f-b2e0-cabfcef22618.png?v=1559983615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Organic Sectioned Shopify Theme<br>
+        <strong>Tipo: </strong>organic<br>
+        <strong>Precio: </strong>
+            50.00 - 54.00
+            <a href="https://organic-ishi.myshopify.com/es/products/vel-neque-posuere">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_red</s:tag>
+    <s:tag>organic_fruit</s:tag>
+    <s:tag>organic_organic products</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+      <title>S / Red</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+      <title>S / Purple</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+      <title>M / Red</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+      <title>M / Purple</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+      <title>L / Red</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082434103</id>
+      <title>L / Purple</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://organic-ishi.myshopify.com/es/products/1604082368567</id>
+    <published>2019-06-08T04:44:37-04:00</published>
+    <updated>2019-06-08T04:44:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://organic-ishi.myshopify.com/es/products/porro-quisquam"/>
+    <title>porro quisquam</title>
+    <s:type>organic</s:type>
+    <s:vendor>Organic Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0086/0251/7559/products/6_5239d19c-5566-435d-bd59-ebc586ae50d6.png?v=1559983533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Organic Sectioned Shopify Theme<br>
+        <strong>Tipo: </strong>organic<br>
+        <strong>Precio: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>organic_organic products</s:tag>
+    <s:tag>organic_vegetable</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604082368567</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://organic-ishi.myshopify.com/es/products/1604081811511</id>
+    <published>2019-06-08T04:40:03-04:00</published>
+    <updated>2019-06-08T04:40:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://organic-ishi.myshopify.com/es/products/consectetur-apple"/>
+    <title>Consectetur Apple</title>
+    <s:type>organic</s:type>
+    <s:vendor>Organic Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0086/0251/7559/products/19.png?v=1559983264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Organic Sectioned Shopify Theme<br>
+        <strong>Tipo: </strong>organic<br>
+        <strong>Precio: </strong>
+            40.00 - 42.00
+            <a href="https://organic-ishi.myshopify.com/es/products/consectetur-apple">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>organic_fruit</s:tag>
+    <s:tag>organic_organic products</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604081811511</id>
+      <title>S / Red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604081811511</id>
+      <title>S / Green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604081811511</id>
+      <title>M / Red</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604081811511</id>
+      <title>M / Green</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://organic-ishi.myshopify.com/es/products/1604081582135</id>
+    <published>2019-06-08T04:33:36-04:00</published>
+    <updated>2019-06-08T04:33:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://organic-ishi.myshopify.com/es/products/donec-eu-libero"/>
+    <title>Donec eu libero</title>
+    <s:type>organic</s:type>
+    <s:vendor>Organic Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0086/0251/7559/products/12.png?v=1559983160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Organic Sectioned Shopify Theme<br>
+        <strong>Tipo: </strong>organic<br>
+        <strong>Precio: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>organic_organic products</s:tag>
+    <s:tag>organic_vegetable</s:tag>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604081582135</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://organic-ishi.myshopify.com/es/products/1604078993463</id>
+    <published>2019-06-08T04:27:33-04:00</published>
+    <updated>2019-06-08T04:27:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://organic-ishi.myshopify.com/es/products/fusce-fermentum"/>
+    <title>Fusce fermentum</title>
+    <s:type>organic</s:type>
+    <s:vendor>Organic Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0086/0251/7559/products/2_19e65f58-6fab-4b73-a7a4-bf41a432b102.png?v=1559982589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Organic Sectioned Shopify Theme<br>
+        <strong>Tipo: </strong>organic<br>
+        <strong>Precio: </strong>
+            50.00 - 54.00
+            <a href="https://organic-ishi.myshopify.com/es/products/fusce-fermentum">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>organic_fruit</s:tag>
+    <s:tag>organic_organic products</s:tag>
+    <s:tag>organic_vegetable</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604078993463</id>
+      <title>M / Orange</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604078993463</id>
+      <title>M / Green</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604078993463</id>
+      <title>M / Red</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604078993463</id>
+      <title>L / Orange</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604078993463</id>
+      <title>L / Green</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://organic-ishi.myshopify.com/es/products/1604078993463</id>
+      <title>L / Red</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

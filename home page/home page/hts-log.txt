@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 01 Jan 2022 22:45:55 at https://organic-ishi.myshopify.com/?_ab=0&_fd=0&_sc=1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://organic-ishi.myshopify.com/?_ab=0&_fd=0&_sc=1 -O1 "C:\home page\home page" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:54:34	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/POST (from https://organic-ishi.myshopify.com/?_ab=0&_fd=0&_sc=1)
+22:57:47	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/collections/men (from https://organic-ishi.myshopify.com/?_ab=0&_fd=0&_sc=1)
+22:58:40	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/abcd (from https://organic-ishi.myshopify.com/?_ab=0&_fd=0&_sc=1)
+23:04:51	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/collections/men (from https://organic-ishi.myshopify.com/ar)
+23:04:55	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/abcd (from https://organic-ishi.myshopify.com/ar)
+23:05:31	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/collections/men (from https://organic-ishi.myshopify.com/es)
+23:05:35	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/abcd (from https://organic-ishi.myshopify.com/es)
+23:05:51	Error: 	"Not Found" (404) at link cdn.shopify.com/s/files/1/0086/0251/7559/t/4/assets/owl.video.play.png (from cdn.shopify.com/s/files/1/0086/0251/7559/t/4/assets/includes.min.css?v=15543733615381598380)
+23:05:51	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/pages/POST (from https://organic-ishi.myshopify.com/pages/wishlist)
+23:05:51	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/collections/POST (from https://organic-ishi.myshopify.com/collections/organic-products)
+23:06:00	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/products/POST (from https://organic-ishi.myshopify.com/products/mauris-bibendum)
+23:06:08	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/blogs/POST (from https://organic-ishi.myshopify.com/blogs/organic)
+23:06:08	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/blogs/organic/POST (from https://organic-ishi.myshopify.com/blogs/organic/scelerisque-vestibulum-urna)
+23:06:08	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/account/POST (from https://organic-ishi.myshopify.com/account/login?return_url=%2Faccount)
+23:06:13	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/policies/POST (from https://organic-ishi.myshopify.com/policies/refund-policy)
+23:06:13	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/POST (from https://organic-ishi.myshopify.com/ar/)
+23:06:13	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/collections/POST (from https://organic-ishi.myshopify.com/ar/collections/organic-products)
+23:06:34	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/products/POST (from https://organic-ishi.myshopify.com/ar/products/mauris-bibendum)
+23:06:40	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/pages/POST (from https://organic-ishi.myshopify.com/ar/pages/wishlist)
+23:06:42	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/blogs/POST (from https://organic-ishi.myshopify.com/ar/blogs/organic)
+23:06:42	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/blogs/organic/POST (from https://organic-ishi.myshopify.com/ar/blogs/organic/scelerisque-vestibulum-urna)
+23:06:42	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/account/POST (from https://organic-ishi.myshopify.com/ar/account/login?return_url=%2Far%2Faccount)
+23:06:44	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/ar/policies/POST (from https://organic-ishi.myshopify.com/ar/policies/refund-policy)
+23:06:44	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/POST (from https://organic-ishi.myshopify.com/es/)
+23:06:44	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/collections/POST (from https://organic-ishi.myshopify.com/es/collections/organic-products)
+23:06:55	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/products/POST (from https://organic-ishi.myshopify.com/es/products/mauris-bibendum)
+23:06:58	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/pages/POST (from https://organic-ishi.myshopify.com/es/pages/wishlist)
+23:07:00	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/blogs/POST (from https://organic-ishi.myshopify.com/es/blogs/organic)
+23:07:00	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/blogs/organic/POST (from https://organic-ishi.myshopify.com/es/blogs/organic/scelerisque-vestibulum-urna)
+23:07:00	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/account/POST (from https://organic-ishi.myshopify.com/es/account/login?return_url=%2Fes%2Faccount)
+23:07:02	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/es/policies/POST (from https://organic-ishi.myshopify.com/es/policies/refund-policy)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 7 seconds : 539 links scanned, 507 files written (80562282 bytes overall) [34544494 bytes received at 26032 bytes/sec], 61878591 bytes transferred using HTTP compression in 379 files, ratio 15%, 2.7 requests per connection
+(31 errors, 0 warnings, 0 messages)

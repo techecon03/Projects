@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Jan 2022 20:27:17 at https://organic-ishi.myshopify.com/products/organic-banana?_ab=0&_fd=0&_sc=1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://organic-ishi.myshopify.com/products/organic-banana?_ab=0&_fd=0&_sc=1 -O1 "C:\product page\product page" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:31:05	Error: 	"Not Found" (404) at link https://organic-ishi.myshopify.com/products/POST (from https://organic-ishi.myshopify.com/products/organic-banana?_ab=0&_fd=0&_sc=1)
+20:35:13	Error: 	"Not Found" (404) at link cdn.shopify.com/s/files/1/0086/0251/7559/t/4/assets/owl.video.play.png (from cdn.shopify.com/s/files/1/0086/0251/7559/t/4/assets/includes.min.css?v=15543733615381598380)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 4 seconds : 133 links scanned, 130 files written (14399464 bytes overall) [11991606 bytes received at 24776 bytes/sec], 3504675 bytes transferred using HTTP compression in 47 files, ratio 21%, 1.3 requests per connection
+(2 errors, 0 warnings, 0 messages)

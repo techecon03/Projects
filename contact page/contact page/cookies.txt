@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+organic-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_country	India
+organic-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpages%2Fcontact%3F_ab%3D0%26_fd%3D0%26_sc%3D1
+organic-ishi.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+organic-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_y	154d867c-f4a0-400b-a242-3d6c8f9e20de
+organic-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_s	4ae42b3a-3960-49c8-8a29-1cbd89d9489c
+organic-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	154d867c-f4a0-400b-a242-3d6c8f9e20de
+organic-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	4ae42b3a-3960-49c8-8a29-1cbd89d9489c
+organic-ishi.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
